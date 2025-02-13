@@ -52,5 +52,5 @@ If you have any questions regarding account deletion, feel free to contact us:
 ---
 
 ## **Account Deletion Request Link**  
-🔗 [https://www.vedinfomedia.com/delete-account](https://www.vedinfomedia.com/delete-account) (Replace with actual URL if different)  
+🔗 [https://www.vedinfomedia.com/delete-account](https://www.vedinfomedia.com/)
 
