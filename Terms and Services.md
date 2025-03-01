@@ -1,5 +1,5 @@
 **Terms and Services**  
-**Last Updated: [Date]**  
+**Last Updated: 01/03/2025**  
 
 Welcome to **My Poster Buddy**! By using our mobile application ("App"), website, or services, you agree to the following Terms and Services. Please read them carefully.
 
