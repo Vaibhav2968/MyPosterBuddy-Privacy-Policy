@@ -40,7 +40,7 @@ You agree not to:
 We reserve the right to terminate or suspend your access to **My Poster Buddy** at any time if you violate these Terms and Services.
 
 ## 9. Privacy Policy  
-Your use of **My Poster Buddy** is also governed by our **Privacy Policy**, which can be found at [Privacy Policy Link].
+Your use of **My Poster Buddy** is also governed by our **Privacy Policy**, which can be found at [[Privacy Policy Link]](https://github.com/Vaibhav2968/MyPosterBuddy-Privacy-Policy/blob/main/privacy%20policy.md)
 
 ## 10. Changes to Terms  
 We may update these Terms and Services from time to time. Continued use of the App after changes means you accept the updated terms.
